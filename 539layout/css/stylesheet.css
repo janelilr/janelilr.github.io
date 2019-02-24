@@ -35,7 +35,8 @@ a.skipcontent:focus{
 
 
 h1#FilipinoFood{
-          color: white;
+          color: #008808;
+	  background: white;
           padding-top: 15px;
           padding-bottom: 15px;
 }
